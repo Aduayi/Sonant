@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sonant</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+	
+	<string name="image1">Image1</string>
+    <string name="id">Alaskan_Malamute.png</string>
+	
+	
+</resources>
