@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Sonant</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="image1">Image1</string>
+    <string name="id">Alaskan_Malamute.png</string>
+
+<!-- Strings related to Settings -->
+
+    <!-- Theme strings -->
+    <string name="Theme">App Theme</string>
+    <string name="Theme_desc">Choose your theme: light (default) or dark.</string>
+    <!-- Edit-text string settings -->
+    <string name="pref_title_display_name">!Placeholder!</string>
+    <string name="pref_default_display_name">Spike</string>
+    <!-- List string settings -->
+    <string name="pref_title_add_friends_to_messages">How big was the poop?</string>
+    <string-array name="pref_example_list_titles">
+        <item>squiggle</item>
+        <item>big ol poop</item>
+        <item>ninja poop</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+
+
+
+
+
+
+</resources>

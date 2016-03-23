@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- color palette, light-->
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="fabbutton">#4CAF50</color>
+
+    <!-- alternative color palette -->
+    <color name="colorPrimaryInverse">#000000</color>
+    <color name="colorPrimaryDarkInverse">#000000</color>
+    <color name="colorAccentInverse">#00BF7E</color>
+</resources>
