@@ -10,8 +10,8 @@
 <!-- Strings related to Settings -->
 
     <!-- Theme strings -->
-    <string name="Theme">App Theme</string>
-    <string name="Theme_desc">Choose your theme: light (default) or dark.</string>
+    <string name="Theme">Choose your theme:light (default) or dark.</string>
+    <string name="Theme_desc">App Theme</string>
     <!-- Edit-text string settings -->
     <string name="pref_title_display_name">!Placeholder!</string>
     <string name="pref_default_display_name">Spike</string>
